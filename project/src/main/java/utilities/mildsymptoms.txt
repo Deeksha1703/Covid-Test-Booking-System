@@ -1,0 +1,1 @@
+fever,cough,loss of taste
